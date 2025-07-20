@@ -1,4 +1,4 @@
-# VisaApprovalPredictor
+# Visa Classifier
 
 ## Overview
 This project aims to automate and enhance the U.S. visa certification process using a machine learning-based classification model. By leveraging historical data from the Office of Foreign Labor Certification (OFLC), the model predicts the likelihood of a visa application being certified or denied, helping streamline decision-making and reduce manual workload.
